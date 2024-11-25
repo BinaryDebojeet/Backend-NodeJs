@@ -1,2 +1,5 @@
-const num = require('./math')
-console.log(module);
+const num = require('./math');
+const axios = require('axios')
+
+console.log(axios)
+// console.log(module);
