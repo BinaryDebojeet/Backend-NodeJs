@@ -1,0 +1,1 @@
+send.sum = (...nums) => nums.reduce((curr, accu) => accu + curr);
