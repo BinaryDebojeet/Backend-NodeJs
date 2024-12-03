@@ -1,0 +1,23 @@
+Node.js provides several types of modules that help developers build applications effectively. These include:
+
+1. **Core Modules**:
+   - Pre-installed with Node.js.
+   - Examples: `fs` (file system), `http` (HTTP server), `path`, `os`, `util`.
+
+2. **Local Modules**:
+   - Created by developers for application-specific functionality.
+   - Example: Custom utility functions or middleware in a Node.js project.
+
+3. **Third-Party Modules**:
+   - Installed via npm (Node Package Manager).
+   - Examples: `express`, `mongoose`, `lodash`, `chalk`.
+
+4. **Built-in Third-Party Modules**:
+   - Third-party modules that are almost standard in usage.
+   - Example: `dotenv` for environment variables.
+
+5. **ES Modules (ECMAScript Modules)**:
+   - Use `.mjs` extension or `"type": "module"` in `package.json`.
+   - Support `import` and `export` syntax.
+
+Each type serves different purposes in Node.js development.
